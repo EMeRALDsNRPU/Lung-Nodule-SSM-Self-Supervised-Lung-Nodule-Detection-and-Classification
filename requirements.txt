@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+torchvision
+SimpleITK
+opencv-python
+tqdm
+scikit-learn
+joblib
