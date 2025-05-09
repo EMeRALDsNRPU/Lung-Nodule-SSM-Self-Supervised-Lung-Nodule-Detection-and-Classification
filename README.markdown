@@ -41,7 +41,7 @@ LungNodule-SSM/
 ├── feature_extraction.py   # Stage 1: Extract DINOv2 features
 ├── train.py                # Stage 2: Train DinoDetector and evaluate with classical classifiers
 ├── requirements.txt        # Dependencies
-├── SIA_2025.pdf            # The published paper
+├── paper_2025.pdf            # The published paper
 └── README.md               # This file
 ```
 
